@@ -17,7 +17,7 @@ Projeto acadêmico individual voltado ao desenvolvimento de uma plataforma web i
 - `ScriptSQL`
 - `Documentacao`
 
-🛠 Tecnologias
+🛠 Ferramentas
 
 - HTML
 - CSS
