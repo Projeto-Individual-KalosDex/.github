@@ -24,7 +24,7 @@ Projeto acadêmico individual voltado ao desenvolvimento de uma plataforma web i
 - JavaScript
 - MySQL
 - GitHub
-- Trello: https://trello.com/b/IAnmTYaS/kalosdex-projetoindiviudual
+- Trello: https://trello.com/b/IAnmTYaS/kalosdex-projetoindiviudual](https://trello.com/b/RQ78NqJn/kalosdex
 
 🌟 Tema
 
